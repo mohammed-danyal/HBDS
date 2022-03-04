@@ -1,0 +1,86 @@
+
+
+.hbd{
+ background-color: black;
+ color: aliceblue;
+
+visibility: 0%;
+font-size: 40px;
+text-align: center;
+ }
+
+
+
+ 
+
+ .hbdcontainer{
+     align-items: center;
+     justify-items: center;
+ }
+
+
+body{
+    background-color: black;
+    align-items: center;
+    justify-items: center;
+
+}
+
+
+p{
+    font: optional;
+    font-weight: bold;
+    font-size: 500px;
+}
+
+
+.hbdcontainer{
+    height: auto;
+    width: auto;
+}
+
+.comic{
+    display: flexbox;
+    align-content:center;
+    justify-content: center;
+  
+
+  padding: 10px;
+border: 1px solid aliceblue;
+}
+
+.text{
+    text-align: center;
+    color: aliceblue;
+    padding-top: 5rem;
+font-size: 40px;
+
+}
+.empty{
+    height: fit-content;
+    width: 800px;
+}
+.pat{
+    align-self: center;
+    justify-self: center;
+    padding-left: em;
+  width: 800px;
+}
+.rm{
+    height: 40%;
+    width: 40%;
+}
+.jk
+{
+    height: 50%;
+    width: 50%;
+}
+
+.end{
+    color: aliceblue;
+  text-align: center;
+}
+.no{
+    font-size: 30px;
+    color: aliceblue;
+}
